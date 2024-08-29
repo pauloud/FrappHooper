@@ -12,7 +12,7 @@ width = 960
 height = 640
 high_dpi = 0
 samples = 0
-fullscreen = 0
+fullscreen = 1
 update_frequency = 0
 swap_interval = 1
 vsync = 1
@@ -163,9 +163,9 @@ archive_location_prefix = archive
 archive_location_suffix = 
 engine_arguments = --verify-graphics-calls=false
 wasm_streaming = 0
-show_fullscreen_button = 1
-show_made_with_defold = 1
-show_console_banner = 1
+show_fullscreen_button = 0
+show_made_with_defold = 0
+show_console_banner = 0
 scale_mode = stretch
 
 [particle_fx]
